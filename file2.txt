@@ -1,2 +1,3 @@
-These are the contents of chapter 2.
-I am 22 years of age.
+These are the contents in chapter 2.
+I am 22 years in age.
+I have made some changes to this file.
